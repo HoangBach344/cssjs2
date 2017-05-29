@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://banggiaxevespa.blogspot.com/' target='_blank'><img src='https://yeuthichvespa.files.wordpress.com/2015/05/dsc01658.jpg' width='500px'/><br/>vespa giá tốt nhất</a>.LH Bách:0981351989. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://banggiaxevespa.blogspot.com/' target='_blank'><img src='https://yeuthichvespa.files.wordpress.com/2015/05/dsc01658.jpg' width='500px'/><br/>Vespa giá tốt nhất</a>.LH Bách:0981351989. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
